@@ -22,17 +22,17 @@ The MyGameList management system is a full-stack application that allows users t
 - User registration and login
 - Browsing and searching for games
 - Adding games to your list. 
-- Create playlists
-- Modify play lists
-- Profile page with statistics
-- Discuss music with other users
+- Modify my list
+- Leave reviews and ratings for games. 
+- View my profile containing my lists and ratings. 
+- View other's lists
+-  View popular games based on popularity. 
 
 ## Stretch Goals
 
-- Ability to discover new music through recommendations based on my listening history.
-- Steam/ control music through connected available devices
-- As a user, I want to view trending songs, popular artists, or top charts.
-- As a user, follow other users and playlists
+- Be to chat with other's
+- Create a prefences feature based on games within list and similar genere within that list. 
+
 
 ## Tech Stacks
 
