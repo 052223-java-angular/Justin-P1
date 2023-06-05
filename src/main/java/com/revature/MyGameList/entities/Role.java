@@ -1,4 +1,4 @@
-package com.revature.pokemon.entities;
+package com.revature.MyGameList.entities;
 
 import java.util.Set;
 

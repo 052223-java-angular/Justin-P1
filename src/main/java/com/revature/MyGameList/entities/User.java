@@ -1,3 +1,7 @@
+package com.revature.MyGameList.entities;
+
+import java.util.UUID;
+
 import com.fasterxml.jackson.annotation.JsonBackReference;
 
 import jakarta.persistence.Column;
