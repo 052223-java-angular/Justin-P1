@@ -1,9 +1,9 @@
-# P1
+# P1 My Game List
 
 ## Introduction
 
 
-The MyGameList management system is a full-stack application that allows users to add and manage there favorite games to there list. User's will be allowed leave reviews and ratings for these games as well as other games they have played. Users will also be able to create wishlists. Based on all user's game list, there will be a multiple Top100s based on ratings, wishlists, and reocurring games to determine the most popular games. The application will be developed using Spring Boot for the backend and Angular for the frontend.
+The MyGameList management system is a full-stack application that allows users to add and manage there favorite games to there list. User's will be allowed leave reviews and ratings for these games as well as other games they have played. Users will also be able to create wishlists. Based on all user's game list, there will be a multiple Top100s based on ratings, wishlists, and reocurring game on users list to determine the most popular games. The application will be developed using Spring Boot for the backend and Angular for the frontend.
 
 
 ## User Stories
@@ -11,6 +11,7 @@ The MyGameList management system is a full-stack application that allows users t
 - **As a user**, I want to register/login to my account
 - **As a user**, I want to manage my game list by adding games, deleting games.
 - **As a user**, I want to search for games based on genre, name, price.
+- **As a user**, I want to add games to my wishlist. 
 - **As a user**, I want to review and rate the games on my list as well as other games I've played. 
 - **As a user**, I want to view my lists as well as other list. 
 - **As a user**, I want to view be able to private my list so that only I can access the list. 
@@ -30,15 +31,15 @@ The MyGameList management system is a full-stack application that allows users t
 
 ## Stretch Goals
 
-- Be to chat with other's
-- Create a prefences feature based on games within list and similar genere within that list. 
-
+- Be to able to chat with other users based on games played. 
+- Create a prefence game feature based on games within user's list.
+- Implement an Admin Role that can delete accounts and add/modify current game choices. 
 
 ## Tech Stacks
 
 - **Java**: The main programming language used for building the application.
 - **PostgreSQL**: Used as the database to store user, product, and order data.
-- **Maven or Gradle**: Used for managing project dependencies.
+- **Maven**: Used for managing project dependencies.
 - **JUnit**: A testing framework for Java applications, used to ensure our code works as expected.
 - **Log4j**: A logging utility for debugging purposes.
 - **JDBC (Java Database Connectivity)**: An API for connecting and executing queries on the database.
@@ -46,7 +47,7 @@ The MyGameList management system is a full-stack application that allows users t
 - **JUnit, Mockito, and PowerMock**: Used for unit and integration testing.
 - **Postman**: Used for unit and integration testing.
 - **Angular**: Develop the frontend using Angular, including components, services, and routing
-- **Public API**: Spotify API
+- **Public API**: Steam API
 - **Spring Boot**: Build RESTful APIs using Spring Boot to handle backend operations
 - **Git and GitHub**: Used for version control.
 
