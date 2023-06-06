@@ -17,7 +17,7 @@ The MyGameList management system is a full-stack application that allows users t
 - **As a user**, I want to modify my review and rating as well as delete my review. 
 - **As a user**, I want to view my lists as well as other list. 
 - **As a user**, I want to view be able to private my list so that only I can access the list. 
-- **As a user**, I want to view popular games based on Top100s
+- **As a user**, I want to view popular games (Top100s)
 
 
 ## MVP (Minimum Viable Product)
