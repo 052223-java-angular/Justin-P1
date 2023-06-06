@@ -26,21 +26,18 @@ The MyGameList management system is a full-stack application that allows users t
 - Browsing and searching for games
 - Adding games to your list. 
 - Modify my list
-- Add games to my wish list. 
-- Modify games to my wish list. 
 - Leave reviews and ratings for games. 
 - Modify Reviews
-- View my profile containing my lists and ratings. 
 - View other user's list.
-- View popular games (Top100s). 
-- Implement an Admin Role that can delete accounts and add/modify current game choices. 
-- 
-## Stretch Goals
-
 - Be to able to chat with other users (live chat/discussion board/direct messaging). 
 - Create a prefence game feature based on games within user's list.
 
-
+## Stretch Goals
+- View popular games (Top10s). 
+- View my profile containing my lists and ratings. 
+- Add games to my wish list. 
+- Modify games to my wish list. 
+- Implement an Admin Role that can delete accounts and add/modify current game choices. 
 ## Tech Stacks
 
 - **Java**: The main programming language used for building the application.
