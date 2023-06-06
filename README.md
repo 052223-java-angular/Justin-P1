@@ -9,10 +9,12 @@ The MyGameList management system is a full-stack application that allows users t
 ## User Stories
 
 - **As a user**, I want to register/login to my account
+- **As a user**, I want to view my profile and update creditentials to my account
 - **As a user**, I want to manage my game list by adding games, deleting games.
 - **As a user**, I want to search for games based on genre, name, price.
 - **As a user**, I want to add games to my wishlist. 
 - **As a user**, I want to review and rate the games on my list as well as other games I've played. 
+- **As a user**, I want to modify my review and rating as well as delete my review. 
 - **As a user**, I want to view my lists as well as other list. 
 - **As a user**, I want to view be able to private my list so that only I can access the list. 
 - **As a user**, I want to view popular games based on Top100s
@@ -24,16 +26,20 @@ The MyGameList management system is a full-stack application that allows users t
 - Browsing and searching for games
 - Adding games to your list. 
 - Modify my list
+- Add games to my wish list. 
+- Modify games to my wish list. 
 - Leave reviews and ratings for games. 
+- Modify Reviews
 - View my profile containing my lists and ratings. 
 - View other user's list.
 - View popular games based on popularity. 
-
+- Implement an Admin Role that can delete accounts and add/modify current game choices. 
+- 
 ## Stretch Goals
 
-- Be to able to chat with other users based on games played. 
+- Be to able to chat with other users (live chat/discussion board/direct messaging). 
 - Create a prefence game feature based on games within user's list.
-- Implement an Admin Role that can delete accounts and add/modify current game choices. 
+
 
 ## Tech Stacks
 
