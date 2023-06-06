@@ -32,7 +32,7 @@ The MyGameList management system is a full-stack application that allows users t
 - Modify Reviews
 - View my profile containing my lists and ratings. 
 - View other user's list.
-- View popular games based on popularity. 
+- View popular games (Top100s). 
 - Implement an Admin Role that can delete accounts and add/modify current game choices. 
 - 
 ## Stretch Goals
